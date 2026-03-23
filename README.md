@@ -76,7 +76,7 @@ CI is set up using GitHub Actions. Every time code is pushed to main it automati
 
 ## Video
 
-YouTube presentation link: (to be added before submission)
+Video presentation: https://www.youtube.com/watch?v=ptZbmCuimhs
 
 ---
 
